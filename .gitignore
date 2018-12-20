@@ -1,1 +1,3 @@
 sfconnect_venv
+.vscode
+__pycache__
